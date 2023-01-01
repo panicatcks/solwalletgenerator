@@ -4,7 +4,7 @@ from base58 import b58encode
 import hashlib
 from art import tprint
 
-tprint('panicatcks', font='bulbhead')
+tprint('panicatcks')
 
 class WalletGenerator():
     def privatekeys(self):
